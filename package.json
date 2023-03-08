@@ -1,0 +1,23 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "description": "JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bichchuran10/authentication.git"
+  },
+  "author": "Bichchuran Changmai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bichchuran10/authentication/issues"
+  },
+  "homepage": "https://github.com/Bichchuran10/authentication#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
